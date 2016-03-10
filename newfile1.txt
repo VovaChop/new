@@ -1,2 +1,2 @@
-qwerty123 one two three four
+qwerty123 one
 new conflict new conflict new conflict
