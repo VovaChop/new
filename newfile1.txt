@@ -1,2 +1,2 @@
 qwerty123 one two three
-new conflict
+we want new conflict
